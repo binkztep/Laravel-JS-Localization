@@ -1,1 +1,1 @@
-module.exports = '{ messages }';
+export default '{ messages }';
